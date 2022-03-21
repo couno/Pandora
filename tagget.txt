@@ -2,3 +2,6 @@ this is a text
 i want to writing something
 Here,i add a word
 第三次修改
+这是测试管理修改
+再次修改管理修改
+这是第三次管理修改
